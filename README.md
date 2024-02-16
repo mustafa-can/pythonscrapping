@@ -1,1 +1,1 @@
-Basic Python scrapping
+Basic Python Scrapping
